@@ -117,7 +117,7 @@ public class FreeCameraLook : Pivot {
     }
 
     public void WiggleCrosshairAndCamera(float kickback)
-    { 
+    {   
         crosshairManager.activeCrosshair.WiggleCrosshair();
 
         offsetY = kickback;
