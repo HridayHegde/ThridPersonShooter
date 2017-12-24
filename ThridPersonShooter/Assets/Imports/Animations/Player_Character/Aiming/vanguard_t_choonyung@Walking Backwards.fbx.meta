@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 5bf570e4528079442aa90009558d61d5
-timeCreated: 1514045049
+guid: c373f3f3df3e0994191f6c1c8738938b
+timeCreated: 1514122859
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -137,7 +137,7 @@ ModelImporter:
     400126: mixamorig:Spine1
     400128: mixamorig:Spine2
     400130: //RootNode
-    7400000: Rifle Run
+    7400000: Walking Backwards
     9500000: //RootNode
   externalObjects: {}
   materials:
@@ -167,10 +167,10 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Rifle Run
+      name: Walking Backwards
       takeName: mixamo.com
       firstFrame: 0
-      lastFrame: 40
+      lastFrame: 84
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -184,7 +184,7 @@ ModelImporter:
       loopBlendPositionXZ: 1
       keepOriginalOrientation: 1
       keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 1
+      keepOriginalPositionXZ: 0
       heightFromFeet: 0
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
