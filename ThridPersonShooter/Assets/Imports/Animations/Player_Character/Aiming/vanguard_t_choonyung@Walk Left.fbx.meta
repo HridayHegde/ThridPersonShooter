@@ -137,7 +137,7 @@ ModelImporter:
     400126: mixamorig:Spine1
     400128: mixamorig:Spine2
     400130: //RootNode
-    7400000: Walk Right (1)
+    7400000: Walk Left
     9500000: //RootNode
   externalObjects: {}
   materials:
@@ -167,7 +167,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Walk Right (1)
+      name: Walk Left
       takeName: mixamo.com
       firstFrame: 0
       lastFrame: 60
